@@ -1390,7 +1390,7 @@ footer
   border-radius: 5px;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 420px) {
   /* 
   =========================
   Header
